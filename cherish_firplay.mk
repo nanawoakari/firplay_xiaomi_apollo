@@ -20,7 +20,7 @@ FENIX_OFFICIAL := true
 TARGET_BOOT_ANIMATION_RES := 8k
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := firplay_hentai69g
+PRODUCT_NAME := cherish_firplay
 PRODUCT_DEVICE := hentai69g
 PRODUCT_BRAND := DerpGang
 PRODUCT_MODEL := MI PUBG MOBILE NOTE 10T Pro Max SE MEME Requiem mid 2069 5G Edition
@@ -34,8 +34,8 @@ BITCOIN_SPEED := 10
 YOUR_MOM := gay
 YOUR_DAD := lebanese
 
-# Ship Apple M1 Max 
-TARGET_BOARD_PLATFORM := M1_MAX
+# Ship Apple A16 Bionic
+TARGET_BOARD_PLATFORM := apple_a16
 
 # FOD
 FOD := true
